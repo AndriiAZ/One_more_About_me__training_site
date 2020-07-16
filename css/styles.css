@@ -1,0 +1,188 @@
+a {
+    color: #11999E;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    padding: 0 25px 0 25px;
+
+}
+
+a:hover {
+    color: #EAF6F6;
+    transition: 1s;
+}
+
+body {
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+    margin: 0;
+    text-align: center;
+}
+
+.bottom-cloud {
+    bottom: 300px;
+    left: 330px;
+    position: absolute;
+}
+
+.bottom-container {
+    color: #EAF6F6;
+    background-color: #66BFBF;
+    height: 80px;
+    width: 100%;
+    padding: 40px 0 40px 0;
+    margin-top: 35px;
+
+}
+
+.btn {
+    background-color: #11CDD4;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin: 60px auto;
+  }
+
+.btn:hover {
+      background-color: #30E3CB;
+      transition: 1s;
+  }
+
+.computer {
+    height: 30%;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.computer2 {
+    height: 30%;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me p {
+    width: 40%;
+    margin: 35px auto 0 auto;
+}
+
+.copyright {
+    font-size: 0.85rem;
+    padding: 20px 0;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    
+    
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 65px;
+    margin: 85px auto;
+}
+
+/*
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 6px;
+    width: 65px;
+    margin: 85px auto;
+}
+*/
+
+.left-align {
+    clear: right;
+}
+
+
+.right-align {
+    clear: left;
+}
+
+.left-align p {
+    margin-bottom: 60px;
+}
+
+.middle-container {
+    
+}
+
+.profile {
+    margin-top: 85px;
+}
+
+.profile p {
+    width: 35%;
+    margin: 0 auto;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto;
+    padding: 0 0 25px 0;
+    text-align: left;
+    width: 50%;
+}    
+
+.special {
+    margin: 135px auto 85px auto;
+}
+
+/*
+.skill-row img {
+    height: 25%;
+    width: 25%;
+}
+*/
+.top-container {
+    background-color: #E4F9F5;
+    line-height: 1;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 330px;
+    top: 50px;
+}
+
+.top-container h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
